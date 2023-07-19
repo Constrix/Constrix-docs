@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Constrix Docs',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Constrix deploy Server docs',
   favicon: 'https://avatars.githubusercontent.com/u/138226524?s=200&v=4',
 
   // Set the production url of your site here
