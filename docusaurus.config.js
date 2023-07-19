@@ -64,10 +64,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Constrix docs',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Constrix Logo',
+          src: 'https://avatars.githubusercontent.com/u/138226524?s=200&v=4',
         },
         items: [
           {
