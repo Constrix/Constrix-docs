@@ -11,7 +11,7 @@ const config = {
   favicon: 'https://avatars.githubusercontent.com/u/138226524?s=200&v=4',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.constrix.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
